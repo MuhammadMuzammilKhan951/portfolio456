@@ -3,7 +3,7 @@ import head from './head'
 import Dropdown from './dropdown'
 export default function page() {
   return (
-    <div className=' h-[14000px] bg-white'>
+    <div className=' h-full bg-white'>
       <div className='sticky z-20 bg-transparent inset-0  backdrop-blur-md'>
         <div className=' flex justify-start pt-4 pl-4 '>
           <div>
