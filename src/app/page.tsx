@@ -26,8 +26,8 @@ export default function page() {
         </nav>
       </div>
       <div id='/' className=' pt-[100px]'>
- <h1 className='font-bold text-5xl ml-4 text-slate-700'>
- I'm <br></br>
+ <h1 className='font-bold text-5xl ml-4 text-slate-700'><h1>
+ I&apos;m</h1> <br></br>
  Full Stack Developer
 </h1>
  <p className='font-semibold text-xl text-slate-600 mr-4 ml-4'>
